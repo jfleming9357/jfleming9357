@@ -1,4 +1,4 @@
-<div align='center'>[![Header](https://raw.githubusercontent.com/jfleming9357/jfleming9357/main/banner.png "Header")](https://www.linkedin.com/in/jfleming9357/)</div>
+[![Header](https://raw.githubusercontent.com/jfleming9357/jfleming9357/main/banner.png "Header")](https://www.linkedin.com/in/jfleming9357/)
 
 ### Hi there 👋
 
