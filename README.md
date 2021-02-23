@@ -5,7 +5,7 @@
 <!--
 **jfleming9357/jfleming9357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Header](https://raw.githubusercontent.com/jfleming9357/jfleming9357/Jason Fleming.png "Header")](https://www.linkedin.com/in/jfleming9357/)
+[![Header](https://raw.githubusercontent.com/jfleming9357/jfleming9357/banner.png "Header")](https://www.linkedin.com/in/jfleming9357/)
 
 Here are some ideas to get you started:
 
