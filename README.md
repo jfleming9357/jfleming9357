@@ -2,9 +2,15 @@
 <img src="https://raw.githubusercontent.com/jfleming9357/jfleming9357/main/banner.png" />  
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jfleming9357/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jfleming9357@gmail.com) 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-<img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=jfleming9357&count_private=true&theme=prussian" />
+<table>
+  <tr>
+    <td>
+      <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=jfleming9357&count_private=true&theme=prussian" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    </td>
+  </tr>
+</table>
+  
 
 ## About Me
 
