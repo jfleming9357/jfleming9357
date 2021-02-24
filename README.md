@@ -31,8 +31,8 @@
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
       <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> 
       <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      <img alt="Gatsby" src="https://img.shields.io/badge/-gatsby-663399?&style=for-the-badge&logo=gatsby3&logoColor=white"/>
-      <img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098?&style=for-the-badge&logo=graphql3&logoColor=white"/>
+      <img alt="Gatsby" src="https://img.shields.io/badge/-gatsby-663399?&style=for-the-badge&logo=gatsby&logoColor=white"/>
+      <img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
     </td>
   </tr>
   <tr>
